@@ -1,0 +1,40 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+OPTIONS: tex:t
+#+ODT_STYLES_FILE:
+#+DESCRIPTION:
+#+KEYWORDS:
+#+SUBTITLE: Реферат
+#+LATEX_HEADER:
+#+TITLE: Система логики символической и индуктивной 
+#+DATE: <2018-03-01 Чт>
+#+AUTHOR: roman
+#+EMAIL: roman@roman-Inspiron-N5050
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 27.0.50 (Org mode 9.1.6)
+
+* Введение
+  В начальных главах Дж.С. Миллем рассматриваются основные моменты
+  формальной логики и ее высказываний. Более кратко и не менее емко
+  они рассмотрены в книге Чарльза Л. Додсона "Символическая
+  логика". (Charles Lutwidge Dodgson "Symbolic Logic" 1890)
+* Индукция  
+  Все процессы 
+** Метод сходства
+** Метод различия
+** Метод соединенного сходства-различия
+** Метод остатков
+** Метод сопутствующих изменений
+* Заблуждения
+** Классификация заблуждений
+** Заблуждения a priori
+** Заблуждения в наблюдении
+** Заблуждения в обобщении
+** Заблуждения в умозаключении
+** Заблуждения в сбивчивости
+** Резюме
